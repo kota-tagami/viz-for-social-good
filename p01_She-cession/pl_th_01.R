@@ -1,4 +1,4 @@
-background_color <- "#CBCBD3"
+background_color <- "#FAFAFA"
 line_color <- "grey5"
 text_color <- "grey5"
 
